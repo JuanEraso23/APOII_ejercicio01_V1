@@ -26,22 +26,19 @@ https://eclipseide.org/
 
 2. Presiona la opción "Download 20XX-XX"
 
-![eclipse-800x188](https://github.com/user-attachments/assets/0e85cec3-6f95-46c1-b3aa-83b14cccdf23)
+![captura_01](https://github.com/user-attachments/assets/0e85cec3-6f95-46c1-b3aa-83b14cccdf23)
 
 3. Presiona la opción "Download"
 
-<img width="1918" height="1015" alt="Captura de pantalla 2026-06-13 103739" src="https://github.com/user-attachments/assets/29ed41e3-5f5c-4c75-b1c3-1778e2a8bc15" />
-<br>
+![captura_02](https://github.com/user-attachments/assets/29ed41e3-5f5c-4c75-b1c3-1778e2a8bc15)
 
 4. Dentro de la pagina de "Downloads", clic en la opción "Download y seleccionar la versión de PC (en mi caso "x86_64")
 
-<img width="1918" height="1015" alt="Captura de pantalla 2026-06-13 104033" src="https://github.com/user-attachments/assets/7c2216e7-b805-48d7-b5b7-8d555dc512b8" />
-<br>
+![captura_03](https://github.com/user-attachments/assets/7c2216e7-b805-48d7-b5b7-8d555dc512b8)
 
 5. Finalmente, clic en "Download" para guardar el archivo en "Descargas"
 
-<img width="1918" height="1015" alt="Captura de pantalla 2026-06-13 104229" src="https://github.com/user-attachments/assets/d7bd98b8-d377-4768-b430-7ba8e3580f47" />
-<br>
+![captura_04](https://github.com/user-attachments/assets/d7bd98b8-d377-4768-b430-7ba8e3580f47)
 
 ## Despliegue (Deployment)
 
