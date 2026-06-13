@@ -22,19 +22,27 @@ Este ejercicio forma parte de los primeros fundamentos de programación estructu
 
 1. Ingresa a la página oficial de Eclipse.
 
-[anchor](https://www.eclipse.org/downloads/)
+https://eclipseide.org/
 
 2. Presiona la opción "Download".
 
-![Captura de pantalla_20230921_093554](https://github.com/JuanEraso23/APOII/assets/144852394/0d5d6a3a-3bdb-42e9-848a-b1c400e22f3a)
+<img width="1918" height="1016" alt="Captura de pantalla 2026-06-13 103527" src="https://github.com/user-attachments/assets/0e85cec3-6f95-46c1-b3aa-83b14cccdf23" />
 
 3. Presiona la opción "Download x86_64".
 
-![Captura de pantalla_20230921_094130](https://github.com/JuanEraso23/APOII/assets/144852394/157499c8-1b34-4d20-868d-ff9f14355ba5)
+<img width="1918" height="1015" alt="Captura de pantalla 2026-06-13 103739" src="https://github.com/user-attachments/assets/29ed41e3-5f5c-4c75-b1c3-1778e2a8bc15" />
 
 4. Presiona la opción "Download".
 
-![Captura de pantalla_20230921_094341](https://github.com/JuanEraso23/APOII/assets/144852394/19b85cd8-30c7-448e-8d4b-171914a3f9cb)
+<img width="1918" height="1015" alt="Captura de pantalla 2026-06-13 103925" src="https://github.com/user-attachments/assets/9099db46-9688-45d0-bf22-e108e2974eec" />
+
+5. s
+
+<img width="1918" height="1015" alt="Captura de pantalla 2026-06-13 104033" src="https://github.com/user-attachments/assets/7c2216e7-b805-48d7-b5b7-8d555dc512b8" />
+
+6. s
+
+<img width="1918" height="1015" alt="Captura de pantalla 2026-06-13 104229" src="https://github.com/user-attachments/assets/d7bd98b8-d377-4768-b430-7ba8e3580f47" />
 
 ## Despliegue (Deployment)
 
