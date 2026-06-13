@@ -26,6 +26,7 @@ https://eclipseide.org/
 
 2. Presiona la opción "Download 20XX-XX"
 
+![eclipse-800x188](https://github.com/user-attachments/assets/0e85cec3-6f95-46c1-b3aa-83b14cccdf23)
 <img width="1918" height="1016" alt="Captura de pantalla 2026-06-13 103527" src="https://github.com/user-attachments/assets/0e85cec3-6f95-46c1-b3aa-83b14cccdf23" />
 <br>
 
