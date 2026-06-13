@@ -1,4 +1,4 @@
-# APOIII
+# APOII
 
 Curso de Algoritmos y Programación II.
 
