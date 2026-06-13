@@ -48,11 +48,12 @@ al cual se le otorga su debido agradecimiento.
 
 ## Construido con
 
-Apache Netbeans: Programa de Desarrollo Java.
+- Java
+- Eclipse IDE
 
 ## Versionado
 
-Apache Netbeans (Versión 20).
+Eclipse IDE for Java Developers - 2026-06
 
 ## Autor(es)
 
